@@ -1,0 +1,13 @@
+# exclude everything
+/*
+
+# re-include some files
+!.gitignore
+!/bspwm/
+!/polybar/
+!/rofi/
+!/sxhkd/
+!/tmux/
+!/vim/
+!/zshrc/
+
