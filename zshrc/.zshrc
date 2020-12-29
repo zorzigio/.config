@@ -130,3 +130,4 @@ unsetopt correct_all
 # ALIASES
 alias vim="${HOME}/AppImages/nvim.appimage"
 alias nvim="${HOME}/AppImages/nvim.appimage"
+

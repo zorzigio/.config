@@ -21,6 +21,7 @@ bspc config borderless_monocle   true
 bspc config gapless_monocle      true
 
 bspc rule -a TelegramDesktop state=floating
+bspc rule -a Pavucontrol state=floating
 bspc rule -a 'Microsoft Teams - Preview' desktop='^7'
 
 # set screens

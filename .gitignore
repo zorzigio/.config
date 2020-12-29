@@ -4,6 +4,7 @@
 # re-include some files
 !.gitignore
 !/bspwm/
+!/fusuma/
 !/polybar/
 !/rofi/
 !/sxhkd/
