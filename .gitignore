@@ -1,0 +1,19 @@
+### Ignore everything ###
+/*
+
+!.gitignore
+!.xinitrc
+!.xmodmap
+
+# But do not ignore ".config" because we need something from its internals...
+!.config/
+# ... but ignore (almost all) the content of ".config"...
+.config/*
+!.config/bspwm/
+!/.config/fusuma/
+!/.config/polybar/
+!/.config/rofi/
+!/.config/sxhkd/
+!/.config/tmux/
+!/.config/vim/
+!/.config/zshrc/
